@@ -28,6 +28,19 @@ This website includes:
 - Git
 - GitHub Pages
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="images/home.png" width="45%">
+  <img src="images/projects.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="images/about.png" width="45%">
+  <img src="images/skill.png" width="45%">
+  <img src="images/contact.png" width="45%">
+</p>
+
 ## 📂 Project Structure
 
 ```
