@@ -1,32 +1,66 @@
-# 🌐 Personal Portfolio Website
+<div align="center">
 
-A responsive personal portfolio website built with **HTML, CSS, and JavaScript** to showcase my skills, projects, and contact information.
+# 🌐 Personal Portfolio
 
-## 📸 Preview
+### Responsive Portfolio Website
 
-This website includes:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages)
 
-- 🏠 Home
-- 👤 About Me
-- 💻 Projects
-- 📬 Contact
+A modern and responsive personal portfolio website built with **HTML**, **CSS**, and **JavaScript** to showcase my projects, skills, and contact information.
 
-## 🚀 Features
+</div>
 
-- Responsive design for desktop, tablet, and mobile
-- Modern and clean user interface
-- Smooth scrolling and interactive elements
-- Project showcase with GitHub repository links
-- Profile section with personal information
-- Contact section with social links
+---
 
-## 🛠️ Technologies Used
+# ✨ Features
+
+- 🏠 Responsive Home Page
+- 👤 About Me Section
+- 💼 Project Showcase
+- 📬 Contact Page
+- 📱 Mobile-Friendly Design
+- ✨ Smooth Animations
+- 🔝 Scroll-to-Top Button
+- 🌐 GitHub Pages Deployment
+
+---
+
+# 🛠️ Technologies
 
 - HTML5
 - CSS3
 - JavaScript
 - Git
+- GitHub
 - GitHub Pages
+
+---
+
+# 📂 Project Structure
+
+```text
+portfolio/
+│
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│
+└── README.md
+```
+
+---
 
 # 📸 Website Preview
 
@@ -47,42 +81,46 @@ This website includes:
 
 ![Contact](images/contact.png)
 
-## 📂 Project Structure
+---
 
-```
-portfolio/
-│
-├── index.html
-├── about.html
-├── projects.html
-├── contact.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-└── images/
-```
+# 🚀 Featured Projects
 
-## 📁 Featured Projects
-
-- 🔹 Linux System Audit
-- 🔹 Mini Store System
-- 🔹 Password Security Checker
-
-## 🌍 Live Demo
-
-👉 [https://zahra-solhjoo.github.io/web.portfolio/](https://zahra-solhjoo.github.io/portfolio/)
-
-## 👩‍💻 Author
-
-**Zahra Solhjoo**
-
-GitHub:
-https://github.com/zahra-solhjoo
+- 🐧 Linux System Audit
+- 🛒 Mini Store System
+- 🔐 Password Security Checker
 
 ---
 
-⭐ If you like this project, don't forget to leave a star.
+# 🌍 Live Demo
+
+**GitHub Pages**
+
+👉 [https://zahra-solhjoo.github.io/web.portfolio/](https://zahra-solhjoo.github.io/portfolio/)
+
+---
+
+# 📬 Contact
+
+- GitHub: https://github.com/zahra-solhjoo
+
+---
+
+# 👩‍💻 Author
+
+**Zahra Solhjoo**
+
+Computer Science Student | Python Developer | Front-End Learner
+
+---
+
+<div align="center">
+
+⭐ If you like this project, please consider giving it a star.
+
+</div>
+
+
+
+
+
+
